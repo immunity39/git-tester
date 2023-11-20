@@ -1,1 +1,4 @@
 This is test text.
+
+Update in A branch.
+Update in B branch.
